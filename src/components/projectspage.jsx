@@ -21,7 +21,7 @@ const Projectspage = () => {
             Semantic HTML: Using clean HTML5 to provide a solid foundation for the Tailwind styling.
 
             The complete source code is available on GitHub.
-            <li><a href="https://mukulbhadu.github.io/Explore-x.clone/" className="text-amber-50 hover:underline">View on GitHub</a></li>
+            <li><a href="https://github.com/mukulbhadu/Explore-x.clone" className="text-amber-50 hover:underline">View on GitHub</a></li>
           </p>
 
         </ul>
@@ -38,7 +38,7 @@ const Projectspage = () => {
             Attention to Detail: "Pixel-perfect" implementation of UI components like navbars, hero sections, and footers.
 
             The complete source code is available on GitHub, highlighting a clean and well-organized codebase.
-            <li><a href="https://mukulbhadu.github.io/Blokonomics.clone-basic/" className="text-amber-50 hover:underline">View on GitHub</a></li>
+            <li><a href="https://github.com/mukulbhadu/Blokonomics.clone-basic/" className="text-amber-50 hover:underline">View on GitHub</a></li>
           </p>
 
         </ul>

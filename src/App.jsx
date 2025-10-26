@@ -52,7 +52,7 @@ const App = () => {
         </div>
       </div>
       <div className="right  w-1/3 bg-black text-white h-auto">
-         <img src="https://media.licdn.com/dms/image/v2/D4D03AQGsCgLuLtgOQg/profile-displayphoto-crop_800_800/B4DZoRxR3OJAAI-/0/1761234724577?e=1762992000&v=beta&t=u61Xr1bV_Nbb4HzvnpyXVJntse9eohHcX8Uo-MhzF4c" alt=" picture" className=" mt-60 mb-1 ml-0 rounded-full w-96" />
+         <img src="https://pbs.twimg.com/profile_images/1982407747640410112/Vx6vADm8_400x400.jpg" alt=" picture" className=" mt-60 mb-1 ml-0 rounded-full w-96" />
       
         <span className="location">📍Sriganganagar, Rajasthan, India</span>
         <h3 className="hover:text-amber-50 hover:cursor-pointer mt-0.5">Mukulbhaduwork@gmail.com</h3>

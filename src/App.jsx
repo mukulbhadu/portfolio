@@ -52,7 +52,8 @@ const App = () => {
         </div>
       </div>
       <div className="right  w-1/3 bg-black text-white h-auto">
-        <img src="https://media.licdn.com/dms/image/v2/D4D03AQGsCgLuLtgOQg/profile-displayphoto-crop_800_800/B4DZoRxR3OJAAI-/0/1761234724577?e=1762992000&v=beta&t=u61Xr1bV_Nbb4HzvnpyXVJntse9eohHcX8Uo-MhzF4c" alt="Image" className=" mt-72 mb-3.5 ml-0 rounded-full w-80" />
+         <img src="https://media.licdn.com/dms/image/v2/D4D03AQGsCgLuLtgOQg/profile-displayphoto-crop_800_800/B4DZoRxR3OJAAI-/0/1761234724577?e=1762992000&v=beta&t=u61Xr1bV_Nbb4HzvnpyXVJntse9eohHcX8Uo-MhzF4c" alt=" picture" className=" mt-60 mb-1 ml-0 rounded-full w-96" />
+      
         <span className="location">📍Sriganganagar, Rajasthan, India</span>
         <h3 className="hover:text-amber-50 hover:cursor-pointer mt-0.5">Mukulbhaduwork@gmail.com</h3>
         <h1 className="text-xl font-bold mt-4">Education</h1>

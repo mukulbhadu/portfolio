@@ -17,8 +17,8 @@ const App = () => {
             to collaborate and learn something new!
           </p>
           <h2 class="text-lg md:text-2xl font-semibold text-amber-50">
-            Exploring all things tech, but I’ve definitely got a taste for front-end development and
-            building intuitive user experiences.
+            'Exploring all things tech, but I’ve definitely got a taste for front-end development and
+            building intuitive user experiences.'
           </h2>
         </div>
 

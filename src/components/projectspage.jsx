@@ -7,7 +7,7 @@ const Projectspage = () => {
       <p className="text-white text-center mt-1.5">Here are some of my projects:</p>
       <div className="container text-white mx-auto mt-10 px-4">
         <ul className=' border-t border-gray-700 pt-20 mt-20'>
-          <li><video loop autoPlay muted src="./public/xclone.mp4" className="w-full h-auto"></video></li>
+          <li><video loop autoPlay muted src="https://github.com/mukulbhadu/portfolio/blob/main/xclone.mp4" className="w-full h-auto"></video></li>
           <p className="bclone text-center mt-10 text-2xl font-semibold">This project is a high-fidelity static replication of the Twitter (X) web application, built to showcase expertise in modern front-end styling with Tailwind CSS.
 
             The primary goal was to leverage Tailwind's utility-first framework to rapidly build a custom, "pixel-perfect" user interface without writing traditional CSS. This project demonstrates a strong understanding of:

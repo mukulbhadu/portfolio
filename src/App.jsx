@@ -10,16 +10,15 @@ const App = () => {
         <div class="left flex-1 mt-20 md:mt-48">
           <h1 class="text-4xl md:text-5xl font-bold mb-5">Hi I’m Mukul,</h1>
           <p class="text-lg md:text-xl mb-10">
-            Myself Mukul Bhadu, a passionate coding student who loves turning ideas into interactive,
-            functional, and visually appealing digital experiences. Here, you’ll find a collection of my
-            projects, experiments, and creative work that reflect my journey in learning and building
-            with code. Explore my work, discover my skills, and feel free to connect — I’m always excited
-            to collaborate and learn something new!
+            I am a Computer Science Engineering student with a strong interest in front-end web development and UI design. I enjoy building responsive, user-friendly web interfaces using HTML, CSS, JavaScript, and Tailwind CSS.
+
+            I focus on writing clean code, understanding core concepts, and continuously improving my problem-solving skills. Currently, I am looking for internship opportunities where I can apply my knowledge, learn from industry professionals, and contribute to meaningful projects
           </p>
           <h2 class="text-lg md:text-2xl font-semibold text-amber-50">
             'Exploring all things tech, but I’ve definitely got a taste for front-end development and
             building intuitive user experiences.'
-          </h2>
+          </h2 >
+          <h2 class="text-lg md:text-2xl font-semibold mt-10 text-amber-100">"I am actively seeking internship opportunities in web development and front-end engineering."</h2>
         </div>
 
 
